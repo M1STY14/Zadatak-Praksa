@@ -4,6 +4,6 @@ Progres:\
   Toptracker instaliran\
   Repozitorij kreiran\
   Overview pregledan\
-  Django instaliran/
+  Django instaliran\
   Tutorial - part 1 odrađen\
            - part 2 odrađen\
