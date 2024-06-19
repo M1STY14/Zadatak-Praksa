@@ -7,3 +7,5 @@ Progres:\
   Django instaliran\
   Tutorial - part 1 odrađen\
            - part 2 odrađen\
+           - part 3 odrađen\
+           - part 4 odrađen
